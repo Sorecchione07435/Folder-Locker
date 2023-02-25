@@ -38,4 +38,10 @@ Questo verrà solamente chiesto quando la cartella è stata sbloccata, se la car
 
 Se la cartella deve rimanere sbloccata, anche il programma deve restare aperto, se l'interfaccia grafica dà fastidio è possibile nasconderla cliccando su Nascondi e verrà mostrata in basso all'area delle notifiche una nuova icona, per riaprire l'interfaccia grafica basta rifare doppio click su di essa.
 
-Se sei interessato a questo programma puoi scaricarlo da qui
+### Download
+
+Se sei interessato a questo programma puoi scaricarlo cliccando in questo link in basso:
+
+https://github.com/Sorecchione07435/Folder-Locker/releases/download/untagged-3f3a37c451d7ec7f467e/Folder.Locker.exe
+
+Ricorda: Folder Locker è disponibile solo su Windows 

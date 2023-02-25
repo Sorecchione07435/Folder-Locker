@@ -36,4 +36,6 @@ Questo verrà solamente chiesto quando la cartella è stata sbloccata, se la car
 
 - Come Nascondere l'interfaccia grafica
 
-Se la cartella deve rimanere sbloccata, anche il programma deve restare aperto, se l'interfaccia grafica dà fastidio è possibile nasconderla cliccando su Nascondi e verrà mostrata in basso all'area delle notifiche una nuova icona, per riaprire l'interfaccia grafica basta rifare doppio click su di essa
+Se la cartella deve rimanere sbloccata, anche il programma deve restare aperto, se l'interfaccia grafica dà fastidio è possibile nasconderla cliccando su Nascondi e verrà mostrata in basso all'area delle notifiche una nuova icona, per riaprire l'interfaccia grafica basta rifare doppio click su di essa.
+
+Se sei interessato a questo programma puoi scaricarlo da qui

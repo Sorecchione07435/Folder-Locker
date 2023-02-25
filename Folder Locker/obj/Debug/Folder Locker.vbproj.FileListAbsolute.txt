@@ -1,0 +1,20 @@
+C:\Users\Stef\AppData\Local\Temporary Projects\Folder Locker\bin\Debug\Folder Locker.exe.config
+C:\Users\Stef\AppData\Local\Temporary Projects\Folder Locker\bin\Debug\Folder Locker.exe
+C:\Users\Stef\AppData\Local\Temporary Projects\Folder Locker\bin\Debug\Folder Locker.pdb
+C:\Users\Stef\AppData\Local\Temporary Projects\Folder Locker\bin\Debug\Folder Locker.xml
+C:\Users\Stef\AppData\Local\Temporary Projects\Folder Locker\obj\Debug\Folder_Locker.Form1.resources
+C:\Users\Stef\AppData\Local\Temporary Projects\Folder Locker\obj\Debug\Folder_Locker.Resources.resources
+C:\Users\Stef\AppData\Local\Temporary Projects\Folder Locker\obj\Debug\Folder Locker.vbproj.GenerateResource.Cache
+C:\Users\Stef\AppData\Local\Temporary Projects\Folder Locker\obj\Debug\Folder Locker.exe
+C:\Users\Stef\AppData\Local\Temporary Projects\Folder Locker\obj\Debug\Folder Locker.xml
+C:\Users\Stef\AppData\Local\Temporary Projects\Folder Locker\obj\Debug\Folder Locker.pdb
+C:\Users\Stef\Documents\Visual Studio 2012\Projects\Folder Locker\Folder Locker\bin\Debug\Folder Locker.exe.config
+C:\Users\Stef\Documents\Visual Studio 2012\Projects\Folder Locker\Folder Locker\obj\Debug\Folder Locker.exe
+C:\Users\Stef\Documents\Visual Studio 2012\Projects\Folder Locker\Folder Locker\obj\Debug\Folder Locker.xml
+C:\Users\Stef\Documents\Visual Studio 2012\Projects\Folder Locker\Folder Locker\obj\Debug\Folder Locker.pdb
+C:\Users\Stef\Documents\Visual Studio 2012\Projects\Folder Locker\Folder Locker\bin\Debug\Folder Locker.exe
+C:\Users\Stef\Documents\Visual Studio 2012\Projects\Folder Locker\Folder Locker\bin\Debug\Folder Locker.pdb
+C:\Users\Stef\Documents\Visual Studio 2012\Projects\Folder Locker\Folder Locker\bin\Debug\Folder Locker.xml
+C:\Users\Stef\Documents\Visual Studio 2012\Projects\Folder Locker\Folder Locker\obj\Debug\Folder_Locker.Form1.resources
+C:\Users\Stef\Documents\Visual Studio 2012\Projects\Folder Locker\Folder Locker\obj\Debug\Folder_Locker.Resources.resources
+C:\Users\Stef\Documents\Visual Studio 2012\Projects\Folder Locker\Folder Locker\obj\Debug\Folder Locker.vbproj.GenerateResource.Cache

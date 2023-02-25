@@ -41,9 +41,11 @@ Public Class Form1
                 My.Computer.FileSystem.RenameDirectory(Dir & "\Private", "HTGLocker")
                 RunCommand(" +h +s HTGLocker")
                 End
+
             Else
                 e.Cancel = True
             End If
+        Else
             End
         End If
     End Sub

@@ -45,3 +45,7 @@ Se sei interessato a questo programma puoi scaricarlo cliccando in questo link i
 https://github.com/Sorecchione07435/Folder-Locker/releases/download/untagged-3f3a37c451d7ec7f467e/Folder.Locker.exe
 
 Ricorda: Folder Locker è disponibile solo su Windows 
+
+**Attenzione!: Quando la cartella è sbloccata non rinominarla altrimenti rischi di confondere il programma e la cartella rimarrà sempre visibile**
+
+il nome deve sempre rimanere 'private'
